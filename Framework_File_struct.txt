@@ -1,0 +1,50 @@
+mini-react-framework/
+│
+├── apps/
+│   ├── client/
+│   │   ├── src/
+│   │   │   ├── core/
+│   │   │   ├── hooks/
+│   │   │   ├── router/
+│   │   │   ├── scheduler/
+│   │   │   └── index.tsx
+│   │   │
+│   │   ├── public/
+│   │   ├── tests/
+│   │   ├── vite.config.ts
+│   │   └── package.json
+│   │
+│   └── server/
+│       ├── src/
+│       │   ├── controllers/
+│       │   ├── services/
+│       │   ├── repositories/
+│       │   ├── middleware/
+│       │   ├── websocket/
+│       │   ├── queues/
+│       │   ├── cache/
+│       │   ├── auth/
+│       │   └── server.ts
+│       │
+│       ├── tests/
+│       ├── Dockerfile
+│       └── package.json
+│
+├── packages/
+│   ├── core/
+│   ├── reconciler/
+│   ├── scheduler/
+│   ├── hooks/
+│   ├── router/
+│   ├── renderer-dom/
+│   ├── compiler/
+│   └── shared/
+│
+├── infra/
+│   ├── docker/
+│   ├── kubernetes/
+│   ├── terraform/
+│   └── nginx/
+│
+└── .github/
+    └── workflows/

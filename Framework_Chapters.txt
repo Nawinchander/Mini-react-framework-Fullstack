@@ -1,0 +1,319 @@
+Exact folder structure
+File names
+Step-by-step implementation
+Production-grade code
+Frontend + Backend integration
+Advanced architecture
+Interview Q&A
+Performance optimizations
+Scaling strategies
+Testing
+CI/CD
+Security
+Distributed systems concepts
+
+That makes it easier to:
+
+Read
+Learn deeply
+Copy/paste code
+Drag/drop folders
+Build incrementally
+Revise for interviews
+Convert into portfolio projects
+Recommended Learning + Build Order
+Phase 1 — Core Frontend Engine
+Chat 1
+
+Mini React Framework Setup
+
+Topics:
+
+Monorepo architecture
+TurboRepo / PNPM workspace
+TypeScript setup
+ESLint
+Prettier
+Husky
+Vite
+Build pipeline
+Folder structure
+Chat 2
+
+Virtual DOM Engine
+
+Topics:
+
+createElement
+JSX transform
+Virtual DOM nodes
+DOM renderer
+Diffing basics
+Chat 3
+
+Fiber Architecture
+
+Topics:
+
+Fiber tree
+Work loop
+requestIdleCallback
+Concurrent rendering
+Time slicing
+Priority scheduler
+Chat 4
+
+Reconciliation Engine
+
+Topics:
+
+Diffing algorithm
+Child reconciliation
+Placement/update/deletion
+Key optimization
+Performance tuning
+Chat 5
+
+Hooks System
+
+Topics:
+
+useState
+useEffect
+useReducer
+useMemo
+useCallback
+useTransition
+Internal hook linked list
+Chat 6
+
+Concurrent Features
+
+Topics:
+
+Suspense
+Deferred rendering
+Interruptible rendering
+Priority lanes
+Scheduler optimization
+Phase 2 — Frontend Platform
+Chat 7
+
+Router System
+
+Topics:
+
+Dynamic routing
+Nested routing
+Lazy loading
+Route prefetching
+Streaming routes
+Chat 8
+
+State Management Engine
+
+Topics:
+
+Zustand-like store
+Immutable updates
+Selector memoization
+Optimistic UI
+Multi-tab sync
+Chat 9
+
+IndexedDB Persistence
+
+Topics:
+
+Offline-first
+IndexedDB caching
+Background sync
+Service workers
+Cache invalidation
+Chat 10
+
+Compiler + Bundler
+
+Topics:
+
+Babel parser
+AST transforms
+JSX compilation
+Tree shaking
+HMR
+Incremental builds
+Phase 3 — Backend Systems
+Chat 11
+
+Node.js Backend Architecture
+
+Topics:
+
+Express/Fastify
+Layered architecture
+Clean architecture
+Dependency injection
+DTO validation
+Chat 12
+
+SSR Rendering Server
+
+Topics:
+
+renderToString
+Streaming SSR
+Hydration
+Edge rendering
+Partial hydration
+Chat 13
+
+Authentication System
+
+Topics:
+
+JWT
+Refresh tokens
+OAuth2
+RBAC
+Session management
+CSRF/XSS security
+Chat 14
+
+WebSocket Infrastructure
+
+Topics:
+
+Socket.IO
+Redis adapter
+Scaling sockets
+Presence systems
+Realtime collaboration
+Chat 15
+
+API Gateway
+
+Topics:
+
+Reverse proxy
+Rate limiting
+Load balancing
+Request aggregation
+Circuit breaker
+Chat 16
+
+Caching Systems
+
+Topics:
+
+Redis
+CDN strategy
+Memory caching
+Cache invalidation
+SWR strategy
+Chat 17
+
+BullMQ + Background Jobs
+
+Topics:
+
+Workers
+Retry strategy
+Dead-letter queues
+Delayed jobs
+Distributed queues
+Phase 4 — DevOps + Scaling
+Chat 18
+
+Docker + Kubernetes
+
+Topics:
+
+Multi-stage Docker
+K8s deployment
+Horizontal scaling
+Rolling deployments
+Chat 19
+
+CI/CD Pipeline
+
+Topics:
+
+GitHub Actions
+Testing pipeline
+Docker registry
+Canary deployments
+Chat 20
+
+Observability Stack
+
+Topics:
+
+OpenTelemetry
+Prometheus
+Grafana
+Loki
+Distributed tracing
+Chat 21
+
+Performance Engineering
+
+Topics:
+
+Memory optimization
+Render optimization
+Flamegraphs
+CPU profiling
+Bundle optimization
+Chat 22
+
+Testing Pyramid
+
+Topics:
+
+Unit testing
+Integration testing
+E2E testing
+Load testing
+Spike testing
+Soak testing
+Phase 5 — FAANG-Level Advanced Systems
+Chat 23
+
+React Server Components Clone
+
+Chat 24
+
+Streaming Architecture
+
+Chat 25
+
+Compiler Optimizations
+
+Chat 26
+
+AI-assisted Scheduling Engine
+
+Chat 27
+
+Edge Runtime Architecture
+
+Chat 28
+
+Distributed Rendering System
+
+Chat 29
+
+Microfrontend Architecture
+
+Chat 30
+
+Production System Design + Interview Round
+
+Topics:
+
+System design interview
+Scalability interview
+Tradeoffs
+CAP theorem
+Eventual consistency
+Real FAANG Q&A

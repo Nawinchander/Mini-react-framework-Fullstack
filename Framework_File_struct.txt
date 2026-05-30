@@ -62,4 +62,19 @@ apps/
     ├── public/
     ├── package.json
     └── vite.config.ts
-    
+
+
+
+packages/shared/
+│
+├── src/
+│   └── types.ts
+│
+├── package.json
+└── tsconfig.json
+
+13
+
+packages/shared/src/types.ts
+
+

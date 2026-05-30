@@ -1,0 +1,20 @@
+Phase 0 — Project Initialization
+Goal
+
+Create a monorepo that will eventually contain:
+
+React-like Framework Core
+Virtual DOM
+Fiber Scheduler
+Hooks Engine
+Router
+State Management
+SSR Engine
+Backend API
+WebSockets
+Redis
+BullMQ
+CI/CD
+Kubernetes
+
+

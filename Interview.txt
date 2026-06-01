@@ -51,3 +51,22 @@ packages/core/
 └── index.ts
 
 
+Interview Questions
+Q: SSR vs CSR?
+Answer
+
+SSR:
+
+Better SEO
+Faster first paint
+Better performance on slow devices
+
+CSR:
+
+Rich interactivity
+Faster navigation after initial load
+Reduced server work
+
+Modern systems combine both.
+
+

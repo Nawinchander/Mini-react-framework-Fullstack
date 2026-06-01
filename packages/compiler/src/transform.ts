@@ -10,3 +10,15 @@ export function transformJSX(ast: any) {
     }
   });
 }
+
+
+// Advanced Compiler Features
+// Tree shaking
+// Dead code elimination
+// Scope hoisting
+// Code splitting
+// Incremental compilation
+// Hot Module Replacement
+// React Server Components
+// Asset optimization
+

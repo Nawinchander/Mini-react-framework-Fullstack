@@ -1,0 +1,12 @@
+API Gateway Responsibilities
+
+Authentication
+Authorization
+Rate limiting
+Load balancing
+API aggregation
+Request validation
+Circuit breaking
+Retry policies
+Distributed tracing
+

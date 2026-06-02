@@ -20,3 +20,18 @@ Image optimization
 Incremental builds
 Search indexing
 
+
+Levels of Caching
+Browser Cache
+Service Worker
+HTTP Cache
+CDN Cache
+Static assets
+SSR pages
+Redis Cache
+API responses
+Session cache
+GraphQL cache
+In-memory Cache
+Computation cache
+Fiber cache

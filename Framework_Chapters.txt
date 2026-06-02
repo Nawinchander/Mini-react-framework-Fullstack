@@ -317,3 +317,11 @@ Tradeoffs
 CAP theorem
 Eventual consistency
 Real FAANG Q&A
+
+
+API Gateway
+services/api-gateway/src/server.ts
+phase - 11
+
+
+

@@ -70,3 +70,14 @@ Reduced server work
 Modern systems combine both.
 
 
+Interview Questions
+Q: Why Redis adapter in Socket.IO?
+Answer
+
+In distributed systems:
+
+Multiple server instances exist
+Socket connections are distributed
+
+Redis adapter synchronizes events across all instances.
+

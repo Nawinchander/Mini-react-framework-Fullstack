@@ -81,3 +81,62 @@ Socket connections are distributed
 
 Redis adapter synchronizes events across all instances.
 
+
+
+Interview Questions
+Q1. Why use a monorepo?
+
+Answer
+
+Shared packages
+Easier dependency management
+Atomic commits
+Faster CI/CD
+Common at large organizations
+Q2. Why PNPM instead of NPM?
+
+Answer
+
+Faster installs
+Disk-space efficient
+Better monorepo support
+Symlinked dependency graph
+Q3. Why TurboRepo?
+
+Answer
+
+Incremental builds
+Task caching
+Faster CI
+Scales well to many packages
+Q4. Why separate core from client?
+
+Answer
+
+Framework logic stays independent
+Reusable in multiple renderers
+Easier testing
+Similar to how React separates core and DOM renderer
+Q5. What are we building next?
+
+Answer
+
+The next phase is the first real framework feature:
+
+Phase 1 — Virtual DOM Engine
+
+We'll create:
+
+packages/core/
+│
+├── createElement.ts
+├── createTextElement.ts
+├── types.ts
+├── jsx-runtime.ts
+└── index.ts
+
+and implement a React-like Virtual DOM from scratch.
+
+
+
+

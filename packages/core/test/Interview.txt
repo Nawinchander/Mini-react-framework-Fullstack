@@ -1,0 +1,15 @@
+Interview Questions
+Q: Difference between load, spike, and soak testing?
+Answer
+
+Load Testing:
+
+Tests expected traffic
+
+Spike Testing:
+
+Sudden traffic burst
+
+Soak Testing:
+
+Long-duration stability testing

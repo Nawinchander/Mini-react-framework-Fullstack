@@ -78,3 +78,8 @@ packages/shared/
 packages/shared/src/types.ts
 
 
+Phase 15 — Testing Pyramid
+Unit Testing
+
+
+packages/core/tests/createElement.test.ts

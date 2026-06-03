@@ -1,0 +1,19 @@
+Developer Push
+    ↓
+GitHub Actions
+    ↓
+Unit Tests
+    ↓
+Integration Tests
+    ↓
+Security Scan
+    ↓
+Docker Build
+    ↓
+Push to Registry
+    ↓
+Kubernetes Deployment
+    ↓
+Smoke Tests
+    ↓
+Production

@@ -138,5 +138,56 @@ packages/core/
 and implement a React-like Virtual DOM from scratch.
 
 
+Interview Questions
+Q: Explain hydration mismatch.
+Answer
 
+Hydration mismatch occurs when:
+
+Server-rendered HTML differs from client-rendered HTML.
+
+Causes:
+
+Non-deterministic rendering
+Date/random values
+Browser-only APIs
+
+Fix:
+
+Stable rendering logic
+Avoid random values during SSR
+Q: Explain concurrent rendering.
+Answer
+
+Concurrent rendering allows React-like systems to:
+
+Pause rendering
+Resume rendering
+Prioritize important updates
+
+Improves responsiveness.
+
+Q: Why use message queues?
+Answer
+
+Queues:
+
+Decouple services
+Improve reliability
+Handle retries
+Smooth traffic spikes
+Enable async processing
+Q: Explain eventual consistency.
+Answer
+
+In distributed systems:
+
+Data may temporarily differ
+Eventually all replicas synchronize
+
+Common in:
+
+Caching
+Replication
+Event-driven systems
 

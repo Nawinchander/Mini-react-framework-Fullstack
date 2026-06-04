@@ -1,0 +1,17 @@
+FAANG-Level System Design Topics Covered
+Rendering engines
+Runtime systems
+Schedulers
+Distributed systems
+Event-driven architecture
+Message queues
+Caching systems
+API gateways
+SSR pipelines
+Compiler internals
+Networking
+Security engineering
+Observability
+Scalability
+Performance engineering
+Infrastructure automation
